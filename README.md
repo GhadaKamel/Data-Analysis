@@ -3,6 +3,7 @@ This repo contains my projects related to Data Analysis, Data Mining.
 
 ---------------------------------------------------------------
 Packages in this repo:
+
     Pandas
     Numpy
     Matplotlib
@@ -11,6 +12,7 @@ Packages in this repo:
     
 ---------------------------------------------------------------
 Data Analysis Reporting Tools:
+
     Power BI
     Tableau
     Google Data Studio
